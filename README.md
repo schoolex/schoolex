@@ -4,5 +4,3 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=schoolex&count_private=true&show_icons=true&theme=radical" />
 </a>
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/schoolex?ext=heatmap)
